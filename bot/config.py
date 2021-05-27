@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "1729769007:AAERVhJk08gIVNvFVBKVF8L41g0Lksa6Whc"
+    APP_ID = "4203842"
+    API_HASH = "84fd5643640d6b1e2063d6b6ccf21f8b"
+    DATABASE_URL = "postgres://xcknbhecmrvvoq:f9d29d289c91757d920342fb83c25363a353033ee475a34d07ed9d952a3ec513@ec2-52-87-107-83.compute-1.amazonaws.com:5432/da228eac3a2rhm"
+    SUDO_USERS = "1160089400" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/K_DramasHindi_bot"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
     G_DRIVE_CLIENT_SECRET = ""
