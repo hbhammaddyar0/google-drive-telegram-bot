@@ -6,8 +6,8 @@ class config:
     SUDO_USERS = "1160089400" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/K_DramasHindi_bot"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = "779223329390-ck3lf4m179vi6fb2n1lcgafib1r148j5.apps.googleusercontent.com"
-    G_DRIVE_CLIENT_SECRET = "_o3NCxAOGdD3rcUjyeUWNIiK"
+    G_DRIVE_CLIENT_ID = "202264815644.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "X4Z3ca8xfWDb1Voo-F9a7ZxJ"
 
 
 class BotCommands:
